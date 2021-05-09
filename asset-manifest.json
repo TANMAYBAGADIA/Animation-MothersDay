@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animation-MothersDay/static/css/main.ae92371a.chunk.css",
+    "main.js": "/Animation-MothersDay/static/js/main.aa3b3949.chunk.js",
+    "main.js.map": "/Animation-MothersDay/static/js/main.aa3b3949.chunk.js.map",
+    "runtime-main.js": "/Animation-MothersDay/static/js/runtime-main.7b65de10.js",
+    "runtime-main.js.map": "/Animation-MothersDay/static/js/runtime-main.7b65de10.js.map",
+    "static/js/2.c9f6f1a7.chunk.js": "/Animation-MothersDay/static/js/2.c9f6f1a7.chunk.js",
+    "static/js/2.c9f6f1a7.chunk.js.map": "/Animation-MothersDay/static/js/2.c9f6f1a7.chunk.js.map",
+    "index.html": "/Animation-MothersDay/index.html",
+    "precache-manifest.2107ee1a25aa966d3c9d5b56db540a37.js": "/Animation-MothersDay/precache-manifest.2107ee1a25aa966d3c9d5b56db540a37.js",
+    "service-worker.js": "/Animation-MothersDay/service-worker.js",
+    "static/css/main.ae92371a.chunk.css.map": "/Animation-MothersDay/static/css/main.ae92371a.chunk.css.map",
+    "static/js/2.c9f6f1a7.chunk.js.LICENSE.txt": "/Animation-MothersDay/static/js/2.c9f6f1a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b65de10.js",
+    "static/js/2.c9f6f1a7.chunk.js",
+    "static/css/main.ae92371a.chunk.css",
+    "static/js/main.aa3b3949.chunk.js"
+  ]
+}
